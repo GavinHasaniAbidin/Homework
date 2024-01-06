@@ -1,7 +1,7 @@
 # habitapp
 End of semester Flutter project.
 
-## About Me!
+## about me!
 朱國東
 C110151173
 
